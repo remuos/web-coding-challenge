@@ -38,10 +38,11 @@ or open the file index.html  and change [the base tag](https://angular.io/guide/
     > containe an interface  for the admin ( login : **admin**, password: **admin**)  to manage the app, and *API RESTful*  for creating web services. [link](http://localhost:8000/admin/)
     > I used that password just to make the login easy for you.
 
-+ links :
-	*[admin](http://localhost:8000/admin/)
+- links :
 
-	*[items list](http://localhost:8000/shops/items/)
-
-	*[item Instance](http://localhost:8000/shops/items/1/)
+	- [admin](http://localhost:8000/admin/)
+	
+	- [items list](http://localhost:8000/shops/items/)
+	
+	- [item Instance](http://localhost:8000/shops/items/1/)
 	
